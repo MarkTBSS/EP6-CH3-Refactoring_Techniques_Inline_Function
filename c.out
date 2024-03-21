@@ -1,0 +1,9 @@
+mode: set
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:10.37,11.24 1 0
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:11.24,13.3 1 0
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:14.2,14.14 1 0
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:16.37,18.2 1 0
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:21.45,22.21 1 1
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:22.21,24.3 1 1
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:25.2,25.14 1 1
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Inline_Function/inline_example.go:27.13,38.2 10 0
